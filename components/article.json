@@ -1,0 +1,123 @@
+[
+    {
+      "price": "$50",
+      "time": "3 hours",
+      "item-name": "AWP | Dragon Lore",
+      "img": "/1.png"
+    },
+    {
+      "price": "$75",
+      "time": "2 hours",
+      "item-name": "Karambit | Doppler",
+      "img": "/2.png"
+    },
+    {
+      "price": "$120",
+      "time": "4 hours",
+      "item-name": "M4A4 | Howl",
+      "img": "/3.png"
+    },
+    {
+      "price": "$90",
+      "time": "5 hours",
+      "item-name": "AK-47 | Fire Serpent",
+      "img": "/4.png"
+    },
+    {
+      "price": "$55",
+      "time": "1 hour",
+      "item-name": "Gut Knife | Marble Fade",
+      "img": "/5.png"
+    },
+    {
+      "price": "$200",
+      "time": "6 hours",
+      "item-name": "Bayonet | Crimson Web",
+      "img": "/6.png"
+    },
+    {
+      "price": "$40",
+      "time": "3 hours",
+      "item-name": "Desert Eagle | Blaze",
+      "img": "/7.png"
+    },
+    {
+      "price": "$150",
+      "time": "2 hours",
+      "item-name": "Butterfly Knife | Tiger Tooth",
+      "img": "/8.png"
+    },
+    {
+      "price": "$80",
+      "time": "4 hours",
+      "item-name": "AWP | Medusa",
+      "img": "/9.png"
+    },
+    {
+      "price": "$65",
+      "time": "3 hours",
+      "item-name": "Glock-18 | Fade",
+      "img": "/1.png"
+    },
+    {
+        "price": "$50",
+        "time": "3 hours",
+        "item-name": "AWP | Dragon Lore",
+        "img": "/1.png"
+      },
+      {
+        "price": "$75",
+        "time": "2 hours",
+        "item-name": "Karambit | Doppler",
+        "img": "/2.png"
+      },
+      {
+        "price": "$120",
+        "time": "4 hours",
+        "item-name": "M4A4 | Howl",
+        "img": "/3.png"
+      },
+      {
+        "price": "$90",
+        "time": "5 hours",
+        "item-name": "AK-47 | Fire Serpent",
+        "img": "/4.png"
+      },
+      {
+        "price": "$55",
+        "time": "1 hour",
+        "item-name": "Gut Knife | Marble Fade",
+        "img": "/5.png"
+      },
+      {
+        "price": "$200",
+        "time": "6 hours",
+        "item-name": "Bayonet | Crimson Web",
+        "img": "/6.png"
+      },
+      {
+        "price": "$40",
+        "time": "3 hours",
+        "item-name": "Desert Eagle | Blaze",
+        "img": "/7.png"
+      },
+      {
+        "price": "$150",
+        "time": "2 hours",
+        "item-name": "Butterfly Knife | Tiger Tooth",
+        "img": "/8.png"
+      },
+      {
+        "price": "$80",
+        "time": "4 hours",
+        "item-name": "AWP | Medusa",
+        "img": "/9.png"
+      },
+      {
+        "price": "$65",
+        "time": "3 hours",
+        "item-name": "Glock-18 | Fade",
+        "img": "/1.png"
+      }
+  ]
+  
